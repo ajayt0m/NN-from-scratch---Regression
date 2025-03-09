@@ -17,7 +17,7 @@ This project builds a **simple feedforward neural network from scratch using Num
 
 ## 📊 Dataset
 
-The [Boston Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html) is a classic regression dataset with 13 numerical features related to housing prices in Boston.
+The [Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html) is a classic regression dataset with 13 numerical features related to housing prices in Boston.
 
 ---
 
@@ -25,7 +25,6 @@ The [Boston Housing Dataset](https://scikit-learn.org/stable/modules/generated/s
 
 ```bash
 📁 NN-from-scratch---Regression/
-│
-├── data/                    # Optional: Store dataset if needed
-├── notebook.ipynb          # Jupyter notebook with full implementation
+│         
+├── home-prices-with-neural-network.ipynb          # Jupyter notebook with full implementation
 ├── README.md               # You're reading it!
